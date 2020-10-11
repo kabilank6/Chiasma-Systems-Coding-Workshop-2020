@@ -123,8 +123,7 @@ eg.
         print(fruits[position])
         position = position + 1
         
-    else:
-        print("reached end of list")
+     print("reached end of list")
     
 ### Functions
 A function is a block of code which will only run when it is called. In functions you can also pass data, known as parameters into a function and a function can also return data as a result. 
