@@ -67,7 +67,7 @@ eg.
     
     print(fruits[1]) # Prints ["pineapple", "mango", "cherry"]
     
-    print(len(fruits[0]) # Prints "3"
+    print(len(fruits[0])) # Prints "3"
 
 ### Comparison statements
 To compare different variables with each other (for example checking if two numbers are equal), you can use a condition
